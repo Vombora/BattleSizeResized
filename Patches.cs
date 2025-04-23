@@ -10,15 +10,8 @@ using TaleWorlds.CampaignSystem.MapEvents;
 using TaleWorlds.CampaignSystem.Roster;
 using TaleWorlds.CampaignSystem.TroopSuppliers;
 using TaleWorlds.Core;
-using TaleWorlds.Library;
 using TaleWorlds.Localization;
 using TaleWorlds.MountAndBlade;
-using TaleWorlds.MountAndBlade.CustomBattle;
-using TaleWorlds.MountAndBlade.CustomBattle.CustomBattle;
-using TaleWorlds.MountAndBlade.CustomBattle.CustomBattle.SelectionItem;
-using static TaleWorlds.MountAndBlade.CustomBattle.ArmyCompositionItemVM;
-using static TaleWorlds.MountAndBlade.Mission;
-using static TaleWorlds.MountAndBlade.MovementOrder;
 
 namespace BattleSizeResized
 {
