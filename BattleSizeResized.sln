@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleSizeResized", "BattleSizeResized.csproj", "{FADFAB8E-A76F-4666-A933-5CF597A5491C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADFAB8E-A76F-4666-A933-5CF597A5491C}.Debug|x64.ActiveCfg = Debug|x64
+		{FADFAB8E-A76F-4666-A933-5CF597A5491C}.Debug|x64.Build.0 = Debug|x64
+		{FADFAB8E-A76F-4666-A933-5CF597A5491C}.Release|x64.ActiveCfg = Release|x64
+		{FADFAB8E-A76F-4666-A933-5CF597A5491C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C5F01B-827B-4D8E-A936-370D95E0B442}
+	EndGlobalSection
+EndGlobal
