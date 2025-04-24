@@ -246,7 +246,7 @@ namespace BattleSizeResized
                     else
                     {
                         initialSpawnNumbers = desired;
-                        if (Mission.Current.IsSiegeBattle && battleSize > 1999 && totals.Sum() > 2039)
+                        if (Mission.Current.IsSiegeBattle && initialSpawnNumbers.Sum() > 2039)
                         {
                             for (int side = 0; side < 2; side++)
                             {
